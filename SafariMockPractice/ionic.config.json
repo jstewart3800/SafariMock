@@ -1,0 +1,7 @@
+{
+  "name": "SafariMockPractice",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
